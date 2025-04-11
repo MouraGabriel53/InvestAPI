@@ -19,6 +19,9 @@
 ```bash
 git clone https://github.com/MouraGabriel53/InvestAPI.git
 ```
+```bash
+npm run dev
+```
 
 ## 🔍 Preview
 
