@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server Backend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "author": "Gabriel Moura",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^0.8.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.3.2",
+    "readline-sync": "^1.4.10"
+  }
+}
