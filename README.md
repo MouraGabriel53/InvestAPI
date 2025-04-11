@@ -10,7 +10,8 @@
   <a href="#-technologies-used">🛠️ Tech Stack</a> •
   <a href="#-installation">📦 Installation</a> •
   <a href="#-how-it-works">📖 How It Works</a> •
-  <a href="#-license">⚖️ License</a>
+  <a href="#️-license">⚖️ License</a> •
+  <a href="#-building">🚧 Building</a>
 </p>
 
 ---
@@ -120,9 +121,9 @@ GEMINI_API_KEY=your_real_api_key_here
 ```
 
 ## ⚖️ License
-[MIT LICENSE](LICENCE)
+[MIT LICENSE](LICENSE)
 
-## 🚧 Features
+## 🚧 Building
 Currently, the project is under development and may receive frequent updates.
 
 Made with 💚 by Gabriel Moura
