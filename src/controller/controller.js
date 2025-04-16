@@ -6,6 +6,6 @@ export async function getRate(req, res) {
         const result = await searchRate(type.toLowerCase())
         res.send(result)
     } catch (error) {
-        res.status(500).send('❌ Function getRate error', error.message)
+        res.status(500).send(`❌ Function getRate error: ${error.message}`)
     }
 }

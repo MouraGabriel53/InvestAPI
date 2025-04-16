@@ -8,6 +8,7 @@ export async function searchRate(type) {
         const json = await response.json()
         return json
     } catch (error){
-        console.error('❌ Function searcRate error', error.message)
+        console.error('❌ Function searchRate error', error.message)
+        throw error
     }
 }
