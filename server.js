@@ -1,4 +1,4 @@
-import startMenu from './menu.js'
+import startMenu from './view/menu.js'
 import express from 'express'
 import routes from './src/routes/routes.js'
 

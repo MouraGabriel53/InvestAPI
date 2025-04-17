@@ -1,6 +1,6 @@
-import PORT from './server.js'
+import PORT from '../server.js'
 import fetch from 'node-fetch'
-import {  askToInvestAI } from './src/services/services.js'
+import {  askToInvestAI } from '../src/services/services.js'
 import readline from 'readline-sync'
 
 
